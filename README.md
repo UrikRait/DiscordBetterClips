@@ -20,6 +20,8 @@ Discord records clips at a fixed ~15 Mbps (at 1440p60), no matter how good your 
   - The Discord clips gallery also reads all subfolders, so clips you sort into folders by hand stay visible.
 - Default for unset sources: 100% (Discord stock).
 
+<img src="https://i.imgur.com/C31RrlL.gif">
+
 ## Install (user plugin)
 
 Vencord has no store for third-party plugins, so it's built from source:
