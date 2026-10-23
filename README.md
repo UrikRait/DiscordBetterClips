@@ -29,8 +29,8 @@ git clone https://github.com/Vendicated/Vencord
 cd Vencord
 pnpm install --frozen-lockfile
 # put this repo's betterClips folder into src/userplugins/
-git clone https://github.com/UrikRait/BetterClips ../BetterClips
-cp -r ../BetterClips/betterClips src/userplugins/
+git clone https://github.com/UrikRait/DiscordBetterClips ../DiscordBetterClips
+cp -r ../DiscordBetterClips/betterClips src/userplugins/
 pnpm build
 pnpm inject --branch stable      # Discord must be fully closed
 ```
